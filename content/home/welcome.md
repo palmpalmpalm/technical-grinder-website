@@ -13,8 +13,8 @@ design:
   background:
     image: ""
     color: "#000000"
-    gradient_start: "#000000"
-    gradient_end: "#3b0169"
+    gradient_start: ""
+    gradient_end: ""
 hero_media: welcome.jpg
 ---
 "ทีมโป๊กเกอร์อันดับ 1 ของประเทศไทย"
