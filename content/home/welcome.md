@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: /static/media/logo2.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 ทีมโป๊กเกอร์อันดับ 1 ของประเทศไทย
