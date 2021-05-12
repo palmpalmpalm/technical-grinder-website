@@ -6,7 +6,7 @@ widget: hero
 widget_id: Technical Grinder
 headless: true
 weight: 10
-title: Technical Grinder Poker
+title: Technical Grinder
 subtitle: ""
 design:
   columns: "1"
@@ -14,4 +14,4 @@ design:
     image: ""
 hero_media: welcome.jpg
 ---
-ทีมโป๊กเกอร์อันดับ 1 ของประเทศไทย
+"ทีมโป๊กเกอร์อันดับ 1 ของประเทศไทย"
