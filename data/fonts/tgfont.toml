@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Kanit"
+
+# Optional Google font URL
+google_fonts = "family=Kanit:wght@100;300&display=swap"
+
+# Font families
+heading_font = "Kanit"
+body_font = "sans-serif"
+nav_font = "sans-serif"
+mono_font = "sans-serif"
